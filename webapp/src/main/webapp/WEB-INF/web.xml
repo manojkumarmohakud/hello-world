@@ -6,7 +6,7 @@
   <display-name>Webapp</display-name>
   <!--
   <servlet>
-  <servlet-name>HelloWorldExampl</servlet-name>
+  <servlet-name>Weclome to Jenkins</servlet-name>
   <servlet-class>com.example.HelloWorldExample</servlet-class>
   </servlet>
   <servlet-mapping>
